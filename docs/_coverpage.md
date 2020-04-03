@@ -4,8 +4,8 @@
 
 - 本文档是作者从事 **数据科学与大数据技术专业** 以来的学习历程，旨在为大家提供一个较详细的学习教程，以及成长道路上的学习总结，如果本文能为您得到帮助，请给予支持！
 
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
+
 
 [GitHub](<https://github.com/David-Chenbo/Blog>)
-[CSDN](https://blog.csdn.net/weixin_44322234)
+[CSDN](<https://blog.csdn.net/weixin_44322234>)
 [开始阅读](README.md)
