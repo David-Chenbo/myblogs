@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="http://img2.imgtn.bdimg.com/it/u=3228202317,3537064791&fm=26&gp=0.jpg">
+<img width="180px" style="border-radius: 50%" bor src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586789009963&di=b2493e1a2336a6189820310a5fa13b05&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201808%2F01%2F20180801211745_sdcnf.thumb.400_0.jpg">
 
 # David_ChenBo的个人笔记
 
