@@ -1,4 +1,5 @@
-[![logo](./img/logo.png)](https://github.com/David-Chenbo)
+[![logo]](https://github.com/David-Chenbo)
+<img width="160px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
 
 # David_ChenBo的个人笔记
 
