@@ -1,4 +1,4 @@
-![logo](./img/logo.png)](https://github.com/David-Chenbo)
+[![logo](./img/logo.png)](https://github.com/David-Chenbo)
 
 # David_ChenBo的个人笔记
 
