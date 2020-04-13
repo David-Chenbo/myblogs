@@ -1,5 +1,5 @@
 [![logo]](https://github.com/David-Chenbo)
-<img width="160px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="160px" style="border-radius: 50%" bor src="http://img2.imgtn.bdimg.com/it/u=3228202317,3537064791&fm=26&gp=0.jpg">
 
 # David_ChenBo的个人笔记
 
