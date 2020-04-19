@@ -1,6 +1,7 @@
 - 数据科学
-  - opioid-prescription-prediction
-    - [1.opioid-prescription-prediction](数据科学/opioid-prescription-prediction/opioid-prescription-prediction.md)
+  - project
+    - [1.opioid-prescription-prediction](数据科学/project/opioid-prescription-prediction/opioid-prescription-prediction.md)
+    - [2.COVID-19_ EDA with recent update on April](数据科学/project/新冠肺炎/新冠肺炎.md)
 
 - 数据分析
   - python爬虫
