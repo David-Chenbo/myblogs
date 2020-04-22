@@ -100,7 +100,6 @@ import bs4
 #### Beautiful Soup类的基本元素
 
 
-```python
 | **基本元素**    | **说明**                                                 |
 |:--------------- |:----------------------------------------------------- |
 | Tag             | 标签，最基本的信息组织单元，分别用<>和</>标明开头和结尾  |
@@ -108,7 +107,7 @@ import bs4
 | Attributes      | 标签的属性，字典形式组织，格式：<tag>.attrs              |
 | NavigableString | 标签内非属性字符串，<>...</>中字符串，格式：<tag>.string |
 | Comment         | 标签内字符串的注释部分，一种特殊的Comment类型            |
-```
+
 
 * 获得tag标签的方法
 
@@ -566,12 +565,12 @@ for child in soup.body.descendants:
 ​    <a class="py1" href="http://www.icourse163.org/course/BIT-268001" id="link1">Basic Python</a> and <a class="py2" href="http://www.icourse163.org/course/BIT-1001870001" id="link2">Advanced Python</a>.</p>
 ​    Python is a wonderful general-purpose programming language. You can learn Python from novice to professional by tracking the following courses:
 ​    
-    <a class="py1" href="http://www.icourse163.org/course/BIT-268001" id="link1">Basic Python</a>
-    Basic Python
-     and 
-    <a class="py2" href="http://www.icourse163.org/course/BIT-1001870001" id="link2">Advanced Python</a>
-    Advanced Python
-    .
+​    <a class="py1" href="http://www.icourse163.org/course/BIT-268001" id="link1">Basic Python</a>
+​    Basic Python
+​     and 
+​    <a class="py2" href="http://www.icourse163.org/course/BIT-1001870001" id="link2">Advanced Python</a>
+​    Advanced Python
+​    .
 
 
 ​    
